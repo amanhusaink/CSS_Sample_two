@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+}
+
+.topnav{
+color: white;
+background-color: orangered;
+}
+ul li{
+    display:inline-block ;
+    padding:10px 20px ;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+    
+
+
