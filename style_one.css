@@ -6,13 +6,13 @@ body{
 .topnav{
 color: white;
 background-color: orangered;
-box-shadow: 0px 2px 2px gray;
+box-shadow: 0px 3px 2px gray;
 }
 ul li{
     display:inline-block ;
     padding:10px 20px ;
 }
-ul{
+ul,h1,h4{
     margin: 0;
     padding: 0;
 }
@@ -20,6 +20,38 @@ li.selected{
     color: black;
     background-color: white;
 }
+.banner{
+    text-align: center;
+    color: white;
+    background-color:rgb(230, 64, 64);
+   height: 355px;
+   padding-top: 100px;
+}
+h4{
+    margin-top: 30px;
+}
+ span{
+   padding: 10px 20px;
+   background-color: black;
+   
+   
+}
+.content{
+    margin: 0px 15% ;
+}
+#example{
+
+    width: 60%;
+    display: inline-block;
+}
+.col2{
+    width:39%;
+    display: inline-block;
+}
+
+
+
+
 
 
 
