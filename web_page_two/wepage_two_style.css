@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    font-family: 'Nunito', sans-serif;
+}
+div.top_banner{
+    background-image: url("background.jpg");
+    height: 250px; 
+    color: white;
+    vertical-align: bottom;
+    position: relative;
+}
+div ul li{
+    display: inline-block;
+    padding:10px 20px ;
+}
+
+.heading{
+    display: block;
+    font-size: 50px;
+}
+.head-left{
+    display: inline-block;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 20px;
+}
+
+.head-rigth{
+    display: inline-block;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding: 20px;
+}
