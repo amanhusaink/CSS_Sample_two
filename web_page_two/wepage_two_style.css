@@ -66,6 +66,27 @@ div.category ul li:hover{
     color: white;
 
 }
+#gallery{
+    padding-left:2%;
+}
+.item{
+    width:22%;
+    margin: 1%;
+    display: inline-block;
+    
+}
+.item>img{
+    width: 100%;
+}
+.item>h4{
+    margin: 10px 0;
+    color: rgb(52, 140, 240);
+}
+div.price{
+    padding-top: 20px;
+    color:green ;
+    font-weight: bold;
+}
 
 
 
