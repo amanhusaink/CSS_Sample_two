@@ -79,7 +79,7 @@ div.category ul li:hover{
 .item>img{
     width: 100%;
 }
-.item>h4{
+h4{
     margin: 10px 0;
     color: rgb(52, 140, 240);
 }
@@ -88,6 +88,24 @@ div.price{
     color:green ;
     font-weight: bold;
 }
+#banner-2{
+    padding-left: 1%;
+    margin-top: 150px;
+}
+#banner-2-image,#banner-2-content{
+    width: 47%;
+    margin: 1%;
+    display: inline-block;
+}
 
+#banner-2-image>img{
+    width: 100%;
+}
 
-
+.button{
+    border: solid gray 1px;
+}
+footer{
+    text-align: center;
+    margin-top: 50px;
+}
