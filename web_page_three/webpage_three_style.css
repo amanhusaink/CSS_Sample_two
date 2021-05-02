@@ -1,5 +1,6 @@
 body{
-    font-family: 'Cabin', sans-serif;;
+    font-family: 'Cabin', sans-serif;
+    display: inline-flex;
 }
 .left{
     margin-left: 5%;
@@ -8,9 +9,11 @@ div.head-text{
     color: rgb(53, 51, 51);
     font-size:60px ;
     font-weight: bold;
+    margin-top: 200px;
 }
 div.small-text{
     color:rgb(201, 164, 116);
+    margin-top: 20px;
 }
 input{
     border: 0;
@@ -45,4 +48,18 @@ i{
 }
 .input-container{
     margin-top: 60px;
+}
+.left{
+    display: inline-block;
+    width: 39%;
+ align-items: flex-start; 
+}
+.image-right{
+    display: inline-block;
+    width: 47%;
+    height: 80%;
+}
+img{
+    
+    width: 100%;
 }
