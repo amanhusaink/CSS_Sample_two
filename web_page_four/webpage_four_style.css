@@ -1,0 +1,60 @@
+body{
+    margin: 0%;
+    font-family: 'Noto Sans SC', sans-serif;
+}
+#banner-one{
+    background-image: url(map.png);
+    height: 100%;
+    background-size: cover;
+}
+.main{
+    margin: 0 10%;
+}
+.top-bar{
+    display: inline-block;
+    padding-right: 10px;
+    color: rgb(62, 177, 16);
+}
+.top-bar-two{
+    display: inline-block;
+    color: rgb(42, 167, 84);
+}
+.text{
+    display: inline-block;
+}
+
+.text-two{
+    font-weight: bolder;
+    font-size: 50px;
+}
+#text-three{
+    color: gray;
+}
+.name{
+    color: rgb(17, 15, 15);
+    margin-bottom: 10px;
+    padding-left: 10px;
+}
+.first{
+    margin-top: 50px;
+    color: gray;
+}
+.second{
+    margin-top: 30px;
+    color: gray;
+}
+.last{
+    color: grey;
+}
+.content-head{
+    display: inline-flex;
+}
+.profile{
+    width:30px;
+    height: 30px;
+    border-radius: 15px;
+}
+
+
+
+
