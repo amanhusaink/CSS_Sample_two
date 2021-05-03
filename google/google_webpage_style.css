@@ -1,0 +1,40 @@
+ul{
+    text-align: end;
+    margin-right: 20px;
+}
+li>.pic{
+    height:40px;
+    width: 40px;
+}
+li{
+    display: inline-block;
+    vertical-align: middle;
+}
+.head{
+    width: 20%;
+    margin: auto;
+    margin-top: 10%;
+
+}
+.head img{
+    width: 100%;
+}
+.bar{
+    border:solid gray 2px;
+    padding: 5px;
+    width:30% ;
+   margin: auto;
+   border-radius: 20px;
+    
+}
+    
+
+.search{
+    border: none;
+    padding: 5px ;
+    width: 80%;
+    
+}
+
+
+
